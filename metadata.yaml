@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31459#Onkel-Tom-s-H-tteoder-die-Geschichte-eines-christlichen-Sklaven.-Band-1--von-3-.
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2010-03-01'
 gutenberg_type: Text
