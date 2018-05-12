@@ -1,0 +1,44 @@
+_repo: Onkel-Tom-s-H-tteoder-die-Geschichte-eines-christlichen-Sklaven.-Band-1--von-3-._31459
+_version: 0.1.0
+alternative_title: Uncle Tom's Cabin. German
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2010-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31459'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcsh 'Plantation life -- Fiction'
+- !lcsh 'Slaves -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Southern States -- Fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Uncle Tom (Fictitious character) -- Fiction'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Political fiction'
+title: 'Onkel Tom''s Hütte
+
+  oder die Geschichte eines christlichen Sklaven. Band 1 (von 3).'
+url: http://www.gutenberg.org/ebooks/31459
